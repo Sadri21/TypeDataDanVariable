@@ -1,6 +1,6 @@
 print "Belajar type data boolean"
 lulus = False
-if (lulus)
+if (lulus):
   print "lulus"
-else
+else:
   print "belum lulus"
